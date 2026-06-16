@@ -63,7 +63,7 @@ recursion-ai-debug/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/recursion-ai-debug.git
+git clone https://github.com/iamwaqarjaved/recursion-ai-debug.git
 cd recursion-ai-debug
 ```
 
